@@ -1,0 +1,50 @@
+Tijd: 0
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 0
+-> snelheid: 0
+Voertuig 1
+-> baan: Floralienlaan
+-> positie: 0
+-> snelheid: 0
+Tijd: 8.3
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 48.7745
+-> snelheid: 11.3607
+Voertuig 1
+-> baan: Floralienlaan
+-> positie: 44.8962
+-> snelheid: 10.3933
+Tijd: 16.6
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 168.704
+-> snelheid: 16.0933
+Voertuig 1
+-> baan: Middelheimlaan
+-> positie: 252.814
+-> snelheid: 14.2797
+Tijd: 24.9
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 373.151
+-> snelheid: 14.5841
+Voertuig 1
+-> baan: Floralienlaan
+-> positie: 158.417
+-> snelheid: 12.6579
+Tijd: 33.2
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 494.29
+-> snelheid: 14.5992
+Voertuig 1
+-> baan: Floralienlaan
+-> positie: 283.533
+-> snelheid: 16.2831
+Tijd: 41.5
+Tijd: 49.8
+Tijd: 58.1
+Tijd: 66.4
+Tijd: 74.7

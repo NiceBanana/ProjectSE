@@ -1,0 +1,99 @@
+Tijd: 0
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 0
+-> snelheid: 0
+Voertuig 1
+-> baan: Middelheimlaan
+-> positie: 10
+-> snelheid: 0
+Voertuig 2
+-> baan: Grotesteenweg
+-> positie: 10
+-> snelheid: 0
+Voertuig 3
+-> baan: Elisabethlaan
+-> positie: 10
+-> snelheid: 0
+Voertuig 4
+-> baan: Turnhoutsebaan
+-> positie: 0
+-> snelheid: 0
+Voertuig 5
+-> baan: Turnhoutsebaan
+-> positie: 10
+-> snelheid: 0
+Tijd: 12.45
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 72.8891
+-> snelheid: 12.8993
+Voertuig 1
+-> baan: Middelheimlaan
+-> positie: 120.927
+-> snelheid: 15.588
+Voertuig 2
+-> baan: Grotesteenweg
+-> positie: 112.246
+-> snelheid: 14.2138
+Voertuig 3
+-> baan: Elisabethlaan
+-> positie: 104.923
+-> snelheid: 13.2887
+Voertuig 4
+-> baan: Turnhoutsebaan
+-> positie: 58.3766
+-> snelheid: 11.6372
+Voertuig 5
+-> baan: Turnhoutsebaan
+-> positie: 113.993
+-> snelheid: 14.8028
+Tijd: 24.9
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 263.633
+-> snelheid: 16.172
+Voertuig 1
+-> baan: Middelheimlaan
+-> positie: 330.36
+-> snelheid: 17.1793
+Voertuig 2
+-> baan: Grotesteenweg
+-> positie: 301.603
+-> snelheid: 15.4859
+Voertuig 3
+-> baan: Elisabethlaan
+-> positie: 282.915
+-> snelheid: 14.5841
+Voertuig 4
+-> baan: Turnhoutsebaan
+-> positie: 225.196
+-> snelheid: 12.961
+Voertuig 5
+-> baan: Turnhoutsebaan
+-> positie: 262.279
+-> snelheid: 12.6613
+Tijd: 37.35
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 466.432
+-> snelheid: 16.4802
+Voertuig 1
+-> baan: Grotesteenweg
+-> positie: 494.541
+-> snelheid: 15.4999
+Voertuig 2
+-> baan: Elisabethlaan
+-> positie: 464.642
+-> snelheid: 14.5998
+Voertuig 3
+-> baan: Turnhoutsebaan
+-> positie: 400.295
+-> snelheid: 14.8325
+Voertuig 4
+-> baan: Turnhoutsebaan
+-> positie: 455.599
+-> snelheid: 16.5237
+Tijd: 49.8
+Tijd: 62.25
+Tijd: 74.7

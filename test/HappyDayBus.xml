@@ -1,0 +1,39 @@
+<BAAN>
+    <naam>Middelheimlaan</naam>
+    <lengte>500</lengte>
+</BAAN>
+
+<BUSHALTE>
+    <baan>Middelheimlaan</baan>
+    <positie>250</positie>
+    <wachttijd>1</wachttijd>
+</BUSHALTE>
+
+<VOERTUIG>
+    <baan>Middelheimlaan</baan>
+    <positie>10</positie>
+    <type>bus</type>
+</VOERTUIG>
+
+<BAAN>
+    <naam>Elisabethlaan</naam>
+    <lengte>500</lengte>
+</BAAN>
+
+<BUSHALTE>
+    <baan>Elisabethlaan</baan>
+    <positie>250</positie>
+    <wachttijd>1</wachttijd>
+</BUSHALTE>
+
+<VOERTUIG>
+    <baan>Elisabethlaan</baan>
+    <positie>10</positie>
+    <type>politiecombi</type>
+</VOERTUIG>
+
+<VOERTUIG>
+    <baan>Elisabethlaan</baan>
+    <positie>0</positie>
+    <type>bus</type>
+</VOERTUIG>

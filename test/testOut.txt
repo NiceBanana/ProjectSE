@@ -1,0 +1,9 @@
+bAAN moet met hoofdletters maar wordt toch geparst.
+Verkeerslicht moet met hoofdletters maar wordt toch geparst.
+verkeerslicht moet met hoofdletters maar wordt toch geparst.
+wachttijd van het BUSHALTE is niet geldig.
+positie van het VOERTUIG is niet geldig.
+Element niet gevonden in VOERTUIG.
+Kleinesteenweg bestaat niet.
+type van de VOERTUIG is niet geldig.
+Element niet gevonden in KRUISPUNT.

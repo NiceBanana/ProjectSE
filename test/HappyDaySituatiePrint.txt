@@ -1,0 +1,77 @@
+Tijd: 0
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 5
+-> snelheid: 0
+Voertuig 1
+-> baan: Middelheimlaan
+-> positie: 25
+-> snelheid: 0
+Voertuig 2
+-> baan: Grotesteenweg
+-> positie: 0
+-> snelheid: 0
+Voertuig 3
+-> baan: Elisabethlaan
+-> positie: 50
+-> snelheid: 0
+Tijd: 16.6
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 102.61
+-> snelheid: 4.70544
+Voertuig 1
+-> baan: Middelheimlaan
+-> positie: 122.24
+-> snelheid: 4.44113
+Voertuig 2
+-> baan: Middelheimlaan
+-> positie: 163.985
+-> snelheid: 15.1974
+Voertuig 3
+-> baan: Grotesteenweg
+-> positie: 178.668
+-> snelheid: 16.7981
+Tijd: 33.2
+Voertuig 0
+-> baan: Middelheimlaan
+-> positie: 125.22
+-> snelheid: 4.48531
+Voertuig 1
+-> baan: Middelheimlaan
+-> positie: 149.104
+-> snelheid: 8.19874
+Voertuig 2
+-> baan: Middelheimlaan
+-> positie: 420.468
+-> snelheid: 15.4994
+Voertuig 3
+-> baan: Elisabethlaan
+-> positie: 229.59
+-> snelheid: 9.06072
+Tijd: 49.8
+Voertuig 0
+-> baan: Elisabethlaan
+-> positie: 358.86
+-> snelheid: 11.8401
+Voertuig 1
+-> baan: Elisabethlaan
+-> positie: 382.941
+-> snelheid: 11.4483
+Voertuig 2
+-> baan: Elisabethlaan
+-> positie: 412.482
+-> snelheid: 11.3974
+Tijd: 66.4
+Voertuig 0
+-> baan: Elisabethlaan
+-> positie: 548.883
+-> snelheid: 11.3961
+Voertuig 1
+-> baan: Elisabethlaan
+-> positie: 572.252
+-> snelheid: 11.3997
+Voertuig 2
+-> baan: Elisabethlaan
+-> positie: 601.716
+-> snelheid: 11.4

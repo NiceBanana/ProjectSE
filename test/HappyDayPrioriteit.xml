@@ -1,0 +1,79 @@
+<BAAN>
+    <naam>Middelheimlaan</naam>
+    <lengte>500</lengte>
+</BAAN>
+
+<VERKEERSLICHT>
+    <baan>Middelheimlaan</baan>
+    <positie>250</positie>
+    <cyclus>20</cyclus>
+</VERKEERSLICHT>
+
+<VOERTUIG>
+    <baan>Middelheimlaan</baan>
+    <positie>10</positie>
+    <type>politiecombi</type>
+</VOERTUIG>
+
+<VOERTUIG>
+    <baan>Middelheimlaan</baan>
+    <positie>0</positie>
+    <type>auto</type>
+</VOERTUIG>
+
+<BAAN>
+    <naam>Grotesteenweg</naam>
+    <lengte>500</lengte>
+</BAAN>
+
+<VERKEERSLICHT>
+    <baan>Grotesteenweg</baan>
+    <positie>250</positie>
+    <cyclus>20</cyclus>
+</VERKEERSLICHT>
+
+<VOERTUIG>
+    <baan>Grotesteenweg</baan>
+    <positie>10</positie>
+    <type>ziekenwagen</type>
+</VOERTUIG>
+
+<BAAN>
+    <naam>Elisabethlaan</naam>
+    <lengte>500</lengte>
+</BAAN>
+
+<VERKEERSLICHT>
+    <baan>Elisabethlaan</baan>
+    <positie>250</positie>
+    <cyclus>20</cyclus>
+</VERKEERSLICHT>
+
+<VOERTUIG>
+    <baan>Elisabethlaan</baan>
+    <positie>10</positie>
+    <type>brandweerwagen</type>
+</VOERTUIG>
+
+<BAAN>
+    <naam>Turnhoutsebaan</naam>
+    <lengte>500</lengte>
+</BAAN>
+
+<VERKEERSLICHT>
+    <baan>Turnhoutsebaan</baan>
+    <positie>250</positie>
+    <cyclus>20</cyclus>
+</VERKEERSLICHT>
+
+<VOERTUIG>
+    <baan>Turnhoutsebaan</baan>
+    <positie>10</positie>
+    <type>auto</type>
+</VOERTUIG>
+
+<VOERTUIG>
+    <baan>Turnhoutsebaan</baan>
+    <positie>0</positie>
+    <type>ziekenwagen</type>
+</VOERTUIG>

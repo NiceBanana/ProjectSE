@@ -1,0 +1,28 @@
+<Baan>
+    <naam>Middelheimlaan</naam>
+    <lengte>500</lengte>
+</Baan>
+
+<verkeerslicht>
+    <baan>Middelheimlaan</baan>
+    <positie>400</positie>
+    <cyclus>20</cyclus>
+</verkeerslicht>
+
+<VERKEERSLICHT>
+    <baan>Middelheimstraat</baan>
+    <positie>0</positie>
+    <cyclus>20</cyclus>
+</VERKEERSLICHT>
+
+<BUSHALTE>
+    <baan>Middelheimlaan</baan>
+    <positie>-5</positie>
+    <wachttijd>1</wachttijd>
+</BUSHALTE>
+
+<VOERTUIG>
+    <baan>Middelheimlaan</baan>
+    <positie>600</positie>
+    <type>Auto</type>
+</VOERTUIG>
